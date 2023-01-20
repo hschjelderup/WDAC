@@ -2142,3 +2142,21 @@
   </Settings>
   <PolicyTypeID>{A244370E-44C9-4C06-B551-F6016E563076}</PolicyTypeID>
 </SiPolicy>
+<Setting Provider="PolicyInfo" Key="Information" ValueName="Id">
+      <Value>
+        <String>080519</String>
+      </Value>
+    </Setting>
+  </Settings>
+  <PolicyTypeID>{A244370E-44C9-4C06-B551-F6016E563076}</PolicyTypeID>
+</SiPolicy>
+
+<Setting Provider="PolicyInfo" Key="Information" ValueName="Id">
+      <Value>
+        <String>080519</String>
+      </Value>
+    </Setting>
+  </Settings>
+  <PolicyTypeID>{A244370E-44C9-4C06-B551-F6016E563076}</PolicyTypeID>
+</SiPolicy>
+
